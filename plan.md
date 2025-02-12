@@ -9,12 +9,16 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] RNG system to randomly generate a cosmetic cat when the user pulls  (deadline: X)
+  - [ ] rarity rng to generate a random rarity (ssr = 5%, sr = 20%, r = 75%) (deadline: X)
+  - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare)
+  - [ ] counter to keep count of how much currency (cat food) they have
+     
+- [ ] open
 
 #### Beyond MVP
 
-- [ ] Task
+- [ ] Button to connect to food collection game
   - [ ] Subtask
 
 
