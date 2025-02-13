@@ -13,6 +13,15 @@
   - [ ] rarity rng to generate a random rarity (ssr = 5%, sr = 20%, r = 75%) (deadline: X)
   - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare)
   - [ ] counter to keep count of how much currency (cat food) they have
+
+- [ ] get cat sprites finish drawing them (deadline: febuary 17)
+  - [ ] the 15 different cat sprits 
+- [ ] get the background done (deadline: febuary 20)
+  - [ ] one for the gacha and one for the map (febuary 23)
+- [ ] get started on animating the frames for the necessary sprites (febuary 27)
+  - [ ] gumball machine
+        
+    
      
 - [ ] open
 
@@ -20,6 +29,7 @@
 
 - [ ] Button to connect to food collection game
   - [ ] Subtask
+  - [ ] sprits other details 
 
 
 <!-- EXAMPLE
