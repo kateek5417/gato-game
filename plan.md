@@ -9,19 +9,19 @@
 
 #### MVP
 
-- [ ] RNG system to randomly generate a cosmetic cat when the user pulls  (deadline: March 5)
+- [ ] RNG system to randomly generate a cosmetic cat when the user pulls using `math.random` (katee deadline: March 5)
   - [ ] rarity rng to generate a random rarity (ssr = 5%, sr = 20%, r = 75%) (deadline: Feb 22)
-  - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare) (deadline: Feb 22)
+  - [ ] type rng to generate a random cat within the generated rarity using arrays (3 Super Super Rare, 5 Super rare, 7 Rare) (deadline: Feb 22)
   - [ ] counter to keep count of how much currency (cat food) they have (deadline: March 1)
 
-- [ ] get cat sprites finish drawing them (deadline: March 5)
+- [ ] get cat sprites finish drawing them (katee + xue deadline: March 5)
   - [ ] the 15 different cat sprits (March 2)
-- [ ] get the background done (deadline: febuary 20)
-  - [ ] one for the gacha and one for the map (febuary 23)
-- [ ] get started on animating the frames for the necessary sprites (febuary 27)
+- [ ] get the background done (xue deadline: febuary 20)
+  - [ ] one for the gacha and one for the map (xue febuary 23)
+- [ ] get started on animating the frames for the necessary sprites using p5play(xue febuary 27)
   - [ ] gumball machine
         
-- [ ] Create a way to "open" a sprite
+- [ ] Create a way to "open" a sprite (katee)
   - [ ] Make the sprite clickable either using p5play or maybe dom event listeners (?)
 
 #### Beyond MVP
@@ -31,6 +31,7 @@
   - [ ] sprits other details
 
 - [ ] Meme cats? (after we finish EVERYTHING ELSE) (March 31)
+  - [ ] Really reaaaally low chance of obtaining it
 
 
 <!-- EXAMPLE
