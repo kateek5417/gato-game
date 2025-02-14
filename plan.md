@@ -22,7 +22,7 @@
   - [ ] gumball machine
         
 - [ ] Create a way to "open" a sprite
-- [ ] 
+  - [ ] Make the sprite clickable either using p5play or maybe dom event listeners (?)
 
 #### Beyond MVP
 
