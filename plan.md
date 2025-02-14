@@ -14,22 +14,23 @@
   - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare)
   - [ ] counter to keep count of how much currency (cat food) they have
 
-- [ ] get cat sprites finish drawing them (deadline: febuary 17)
-  - [ ] the 15 different cat sprits 
+- [ ] get cat sprites finish drawing them (deadline: March 5)
+  - [ ] the 15 different cat sprits (March 2)
 - [ ] get the background done (deadline: febuary 20)
   - [ ] one for the gacha and one for the map (febuary 23)
 - [ ] get started on animating the frames for the necessary sprites (febuary 27)
   - [ ] gumball machine
         
-    
-     
-- [ ] open
+- [ ] Create a way to "open" a sprite
+- [ ] 
 
 #### Beyond MVP
 
-- [ ] Button to connect to food collection game
+- [ ] Button to connect to food collection game (March 15)
   - [ ] Subtask
-  - [ ] sprits other details 
+  - [ ] sprits other details
+
+- [ ] Meme cats? (after we finish EVERYTHING ELSE) (March 31)
 
 
 <!-- EXAMPLE
