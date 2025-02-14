@@ -9,10 +9,10 @@
 
 #### MVP
 
-- [ ] RNG system to randomly generate a cosmetic cat when the user pulls  (deadline: X)
-  - [ ] rarity rng to generate a random rarity (ssr = 5%, sr = 20%, r = 75%) (deadline: X)
-  - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare)
-  - [ ] counter to keep count of how much currency (cat food) they have
+- [ ] RNG system to randomly generate a cosmetic cat when the user pulls  (deadline: March 5)
+  - [ ] rarity rng to generate a random rarity (ssr = 5%, sr = 20%, r = 75%) (deadline: Feb 22)
+  - [ ] type rng to generate a random cat within the generated rarity (3 Super Super Rare, 5 Super rare, 7 Rare) (deadline: Feb 22)
+  - [ ] counter to keep count of how much currency (cat food) they have (deadline: March 1)
 
 - [ ] get cat sprites finish drawing them (deadline: March 5)
   - [ ] the 15 different cat sprits (March 2)
