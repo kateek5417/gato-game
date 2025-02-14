@@ -7,6 +7,10 @@
 
 ## Timeline
 
+# tool 
+
+p5play introduces a lot of things that we can do to animate and make the sprits move, we want to incorperate the movement of physics that we learned in our tool and make unique in our own way.
+And since our project is heavyly by sprits and other little parts that need we want to use p5play to mKe the sprits come to life.
 #### MVP
 
 - [ ] RNG system to randomly generate a cosmetic cat when the user pulls using `math.random` (katee deadline: March 5)
@@ -16,6 +20,7 @@
 
 - [ ] get cat sprites finish drawing them (katee + xue deadline: March 5)
   - [ ] the 15 different cat sprits (March 2)
+  - [ ] in png
 - [ ] get the background done (xue deadline: febuary 20)
   - [ ] one for the gacha and one for the map (xue febuary 23)
 - [ ] get started on animating the frames for the necessary sprites using p5play(xue febuary 27)
